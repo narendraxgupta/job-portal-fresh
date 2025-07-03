@@ -1,4 +1,4 @@
-# 💼 Full Stack Job Portal
+# 💼 InsiderJobs - Full Stack Job Portal
 
 A feature-rich job portal built with **MERN stack** — MongoDB, Express, React, Node.js — enabling job seekers and recruiters to connect seamlessly. Integrated with **Clerk** for authentication and **Sentry** for performance monitoring and error tracking. Deployed on **Vercel**.
 
