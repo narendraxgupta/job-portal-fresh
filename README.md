@@ -50,7 +50,6 @@ job-portal/
 │   ├── src/
 │   └── ...     
 ├── server/     # Express backend (optional structure)
-├── How_To_Run_Project.pdf  # Step-by-step setup guide
 ```
 
 ---
@@ -70,7 +69,7 @@ job-portal/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/job-portal.git
+   git clone https://github.com/narendraxgupta/job-portal-fresh.git
    cd job-portal
    ```
 
@@ -92,9 +91,7 @@ job-portal/
    ```bash
    npm run dev
    ```
-
-> Refer to `How_To_Run_Project.pdf` for a detailed setup guide.
-
+   
 ---
 
 ## 🚀 Deployment
@@ -114,12 +111,6 @@ job-portal/
 
 ---
 
-## 📸 Screenshots / Demo
-
-> _Add demo URL or UI screenshots here_
-
----
-
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE)
@@ -135,5 +126,5 @@ Feel free to fork, open issues, or submit pull requests.
 
 ## 🙋‍♂️ Author & Credits
 
-- Built by [Your Name](https://github.com/yourusername)
+- Built by [Narendra Gupta](https://github.com/narendraxgupta)
 - Powered by Clerk, MongoDB, Sentry, and Vercel
